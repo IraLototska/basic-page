@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    background color: #efeee7;
+    font-family: "Kanit";
+    font color: #333333;
+    height: 700px;
+    width: 1500px;
+}
+
+.container{
+    background: #333333;
+    color: #eee;
+    height: 70px;  
+}
+
+header{
+    background color: #333333;
+}
+
+h1{
+    font color: #eee;
+    font size: 28px;
+    text-align: center; 
+    padding: 15px;
+}
+
+h2{
+    font size: 24px;
+    margin: 50px;
+}
+
+.main-bio{
+    margin: -220px 300px 300px 400px;
+    width: 40%;
+}
+
+.bio-image{
+    width: 200px;
+    margin: -30px 50px;
+}
+
+
+.contact-info  {
+    margin: -735px 200px 300px 1100px;
+    width: 20%;
+}
+
+.contact-link{
+    color:#d21034;
+}
+
+footer{
+    margin: 20px;
+    text-align: right;
+}
+
